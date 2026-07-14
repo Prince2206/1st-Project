@@ -1,4 +1,4 @@
 # 1st-Project
 This is my first GitHub Repository
-<br> // next line
+<br>
 Author - Prince Tyagi
